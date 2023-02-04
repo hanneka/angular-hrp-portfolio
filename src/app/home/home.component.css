@@ -79,3 +79,17 @@ nav .navlinks li a{
   color: rgb(48, 35, 13);
   margin-right: 2.5rem;
 }
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 4rem;
+}
+.container .hero-pic{
+  width: 300px;
+  height: 300px;
+  border-radius: 30%;
+  overflow: hidden;
+  border: 10pz solid rgb(100, 76, 32);
+  box-shadow: 5px 7px 20px rgba(199, 167, 81, 0.5);
+}
