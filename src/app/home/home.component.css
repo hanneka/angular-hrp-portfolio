@@ -93,3 +93,19 @@ nav .navlinks li a{
   border: 10pz solid rgb(100, 76, 32);
   box-shadow: 5px 7px 20px rgba(199, 167, 81, 0.5);
 }
+.hero-pic img:hover{
+  transform: scale(1.2);
+}
+.hero-text{
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+}
+.hero-text h5{
+  color: rgb(29, 27, 27);
+  font-size: 14px;
+}
+.hero-text h5 span{
+  color: ;
+  
+}
