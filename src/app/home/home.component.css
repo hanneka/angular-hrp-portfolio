@@ -80,12 +80,11 @@ nav .navlinks li a {
 }
 .container {
   display: flex;
-  justify-content: space-around;
   align-items: center;
   padding-top: 4rem;
 }
 .container .hero-pic {
-  width: 300px;
+  width: 250px;
   height: 300px;
   border-radius: 30%;
   overflow: hidden;
