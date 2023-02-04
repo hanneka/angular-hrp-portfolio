@@ -102,10 +102,34 @@ nav .navlinks li a {
   flex-direction: column;
 }
 .hero-text h5 {
-  color: rgb(29, 27, 27);
+  color: rgb(100, 76, 32);
   font-size: 14px;
 }
 .hero-text h5 span {
   color: #684e1e;
   font-size: 16px;
+}
+.hero-text h1 {
+  color: rgb(100, 76, 32);
+  font-size: 3rem;
+}
+.hero-text p {
+  color: #684e1e;
+}
+.btn-group {
+  margin: 45px 0;
+}
+.btn-group .btn {
+  border-color: #d5d5d5;
+  color: #fff;
+  background-color: #333;
+  padding: 12px 25px;
+  margin: 5px 0;
+  margin-right: 7px;
+  border-radius: 30px;
+  border: 2pz solid #e5e5e5;
+  box-shadow: 0 10px 10px -8px rgb(0, 0, 0 / 78%);
+}
+.btn.active{
+  border-color: rgb(100, 76, 32);
 }
