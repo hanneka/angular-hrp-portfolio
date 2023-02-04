@@ -94,7 +94,7 @@ nav .navlinks li a {
   align-items: center;
 }
 .hero-pic img:hover {
-  transform: scale(2);
+  transform: scale(1.2);
 }
 .hero-text {
   max-width: 500px;
